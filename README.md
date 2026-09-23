@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ariannafrancesconi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=720&height=40&lines=Methodological+innovation+for+real-world+healthcare;Multimodal+%C2%B7+imbalanced+%C2%B7+shifted+%C2%B7+unpaired+data;From+new+methods+to+patients%27+lives;Building+clinical+AI+that+fails+gracefully" alt="Methodological innovation for real-world healthcare"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=14B8A6&center=true&vCenter=true&width=720&height=40&lines=Methodological+innovation+for+real-world+healthcare;Multimodal+%C2%B7+imbalanced+%C2%B7+shifted+%C2%B7+unpaired+data;From+new+methods+to+patients%27+lives;Building+clinical+AI+that+holds+up+in+the+real+world" alt="Methodological innovation for real-world healthcare"/>
   </a>
 </p>
 
@@ -62,23 +62,23 @@ My work lives in the **intersections** of these four problems: each dot below is
 | | Paper | What it shows | Status |
 |:-:|---|---|---|
 | 🟢 | **IMBALMED** · class-balancing diversity ensemble | Using the balancing technique itself as the source of ensemble diversity improves Alzheimer's diagnosis and early detection, most where the positive class is rarest. | [CMIG 2025](https://doi.org/10.1016/j.compmedimag.2025.102529) · [code](https://github.com/ariannafrancesconi/Multimodal_AD) |
-| 🟢 | **Keystroke dynamics** · cross-dataset transfer | Models pre-trained across typing cohorts keep strong discrimination (AUROC up to 0.91) on a cohort never seen in development. | ECAI 2025 workshop |
+| 🟢 | **Keystroke dynamics** · cross-dataset transfer | Models pre-trained across typing cohorts keep strong discrimination (AUROC up to 0.91) on a cohort never seen in development. | [ECAI 2025 workshop](https://link.springer.com/chapter/10.1007/978-3-032-17216-7_6) |
 | 🔴 | **Confounder audit** · voice + tapping | Under a strict, confounder-matched protocol, single-modality voice gains collapse; the voice + tapping fusion survives. Ships a *Responsible Evaluation Checklist*. | under review |
 | 🟠 | **FairPDA** · fair partial-label adaptation | First cross-cohort HC / PD / ALS voice benchmark; external generalisation and gender fairness improve *together*. | under review |
 | 🟣 | **HYCA** · hypersphere centre alignment | Learns from modalities that never share a patient, by pulling class prototypes onto a closed-form centre. One scan → a multimodal decision. | under review |
-| 🌈 | **ADELAI** · prospective study | All four challenges at once, in a real neurology clinic: speech, typed text and keystrokes captured during the routine visit. | [enrolling](https://github.com/ariannafrancesconi/ADELAI) |
+| 🌈 | **[ADELAI](https://ariannafrancesconi.github.io/ADELAI/)** · prospective study | All four challenges at once, in a real neurology clinic: speech, typed text and keystrokes captured during the routine visit. | [enrolling](https://ariannafrancesconi.github.io/ADELAI/) |
 
 ---
 
 ## 🗞️ Recent news
 
 - 🎓 **Late 2026** · PhD defense (upcoming): *Resilient Multimodal AI in Healthcare: Learning under Imbalance, Bias, Domain Shift and Unpaired Modalities*
-- 📝 **2026** · HYCA, our method for learning from unpaired multimodal data, submitted to *Pattern Recognition*
-- ✍️ **2026** · Reviewer for **NeurIPS 2026**
-- 🔬 **2025–26** · Visiting researcher at **EPFL**, working on LLMs for ICU outcome prediction and pregnancy-risk decision support
-- 🧑‍⚖️ **2025** · Joined the Early-Career Editorial Board of **npj Digital Medicine**
-- 📄 **2025** · IMBALMED published in *Computerized Medical Imaging and Graphics*
-- 🎤 **2025** · Keystroke-dynamics paper presented at an **ECAI 2025** workshop
+- **2026** · HYCA, our method for learning from unpaired multimodal data, submitted to *Pattern Recognition*
+- **2026** · Reviewer for **NeurIPS 2026**
+- **2025–26** · Visiting researcher at **EPFL**, working on LLMs for ICU outcome prediction and pregnancy-risk decision support
+- **2025** · Joined the Early-Career Editorial Board of **npj Digital Medicine**
+- **2025** · IMBALMED published in *Computerized Medical Imaging and Graphics*
+- **2025** · [Keystroke-dynamics paper](https://link.springer.com/chapter/10.1007/978-3-032-17216-7_6) presented at an **ECAI 2025** workshop
 
 ---
 
