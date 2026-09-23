@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
+  <a href="https://ariannafrancesconi.github.io/"><img src="https://img.shields.io/badge/Website-0A2540?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" alt="Personal website"/></a>
   <a href="https://www.linkedin.com/in/arianna-francesconi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://scholar.google.com/citations?user=GOOGLE_SCHOLAR_ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.com/citations?user=9k4AlTMAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0003-6648-575X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 </p>
 
